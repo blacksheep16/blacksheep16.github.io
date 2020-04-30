@@ -8,11 +8,11 @@
 <img src="images/journey.png?raw=true"/>
 
 ---
-[The trouble of OBS knob](/pdf/sample_presentation.pdf)
+[The trouble of OBS knob](OBS.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[The world of the slide rules](http://example.com/)
+[The world of the slide rules](Descend.md)
 <img src="images/E6B.jpg?raw=true"/>
 
 ---
