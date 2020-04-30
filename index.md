@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### The Journey Begins 
 
-[The Journey Begins](/sample_page)
-<img src="images/journey.PNG?raw=true"/>
+[Thanks for joining me!](/sample_page)
+<img src="images/journey.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
